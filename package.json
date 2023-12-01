@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "function-plot": "^1.23.3",
+    "mathjs": "^12.1.0",
+    "open": "^9.1.0",
+    "readline-sync": "^1.4.10"
+  }
+}
